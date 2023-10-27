@@ -10,6 +10,9 @@ Repositório destinado ao projeto do curso de HTML5 e CSS3
 [Google Fonts] (https://fonts.google.com/)
 ### Imagens
 [Pixabay] (https://pixabay.com/pt/)
+
 [Icon-icons] (https://icon-icons.com/pt/)
+
 [Iconfinder] (https://www.iconfinder.com/)
+
 [Optmizilla] (https://imagecompressor.com/pt/)
